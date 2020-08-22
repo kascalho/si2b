@@ -1,0 +1,7 @@
+Passo 1 - Apos a insalação e execução
+Passo 2 - Coleta de Dados (BDA) 
+Passo 3 - Indetificação do Motorista ou Cliente (Linguagem)
+Passo 4 - Indetificar Inicio e Destino e quantidade de Pessoas e se esta de acordo com valor (Liguagem/Mapa)
+Passo 5 - Motorista Indentificar se está de acordo com a viagem (Linguagem)
+Passo 6 - Cada cliente pagara somente ate 10 Dolares da corrida (Linguagem/BDA)
+Passo 7 - Avaliação do Cliente (Linguagem/BDA)

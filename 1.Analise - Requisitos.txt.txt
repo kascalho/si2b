@@ -1,0 +1,4 @@
+A empresa tem necessita de um sistema,
+onde consegue comunicar com seus clientes,
+para efetuar pagamentos de suas viagens.
+Cada cliente pode pagar em sua viagem no no maximo 10 dolares.

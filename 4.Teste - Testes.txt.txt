@@ -1,0 +1,3 @@
+Sera feito os teste conforme a solicitação do cliente, 
+se atende os pre-requisitos do cliente, 
+para nao houver divergencia quando o app estive na fase de produção. 

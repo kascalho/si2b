@@ -1,0 +1,12 @@
+Criar App que conect com esses sistemas operacionais.
+(MOBLIE e IOS e Windows Phone). 
+ 
+GPS - Google MAPS - Localização Ativada.
+Formas Pagamento - (Cartão de Credito/PayPal/MercadoPago/NuBank/PicPay/Dinheiro).
+Sistema de Segurança Integrado - Norton Secured.
+Sistema de Bate papo - Chat. 
+Sistema de Ligação - Numero do telefone (Telefone de emegencia).
+Sistema de Gerenciamento de Banco Dados SGBDAs.
+OBS: Obrigatorio Ter conexão via Internet (Dados Moveis ou Wifi).
+
+
